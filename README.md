@@ -1,0 +1,1 @@
+# HeitorTerra-Algoritmos-De-IA_Fuzzy-C-Means_KNN_K-Means-e-Decision-Tree
